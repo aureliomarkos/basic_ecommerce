@@ -6,9 +6,6 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3-green)](https://www.sqlite.org/index.html)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue)](http://opensource.org/licenses/MIT)
 
-[![Downloads](https://img.shields.io/github/downloads/:aureliomarkos/:basic_ecommerce/total)](https://github.com/aureliomarkos/basic_ecommerce)
-
-
 ## Instalação
 
 ```sh
