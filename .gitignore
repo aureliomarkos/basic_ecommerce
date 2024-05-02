@@ -1,3 +1,4 @@
+# directory
 __pycache__
 img
 include
@@ -5,3 +6,7 @@ Lib
 Scripts
 share
 pyvenv
+
+# files
+import_product.py
+import_product_image.py
